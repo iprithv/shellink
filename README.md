@@ -1,6 +1,6 @@
 # Shellink
 
-**My introduction from the terminal** — built by [Prithvi S](https://github.com/iprithv).  
+**My introduction from the terminal**.
 One command prints a short intro, then an interactive menu opens links for email, resume, Calendly, portfolio, GitHub, LinkedIn, Google Scholar, and DEV so nobody has to dig through old tabs for how to reach you.
 
 ```bash

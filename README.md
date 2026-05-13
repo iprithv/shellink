@@ -11,9 +11,9 @@ npx iprithv
 
 ### What happens
 
-1. An **intro panel** prints first — copy, color, borders — the handshake before the menu.
+1. An **intro panel** prints first copy, color, borders the handshake before the menu.
 2. A **list menu** appears. Choose an action; it runs and the menu **comes back** until you’re finished.
-3. **Quit** is the only exit — everything else keeps you in the flow.
+3. **Quit** is the only exit, everything else keeps you in the flow.
 
 ---
 

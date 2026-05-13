@@ -4,7 +4,7 @@
   "description": "Shellink — terminal intro & contact menu for Prithvi S (@iprithv)",
   "main": "card.js",
   "bin": {
-    "iprithv": "./card.js"
+    "iprithv": "card.js"
   },
   "repository": {
     "type": "git",

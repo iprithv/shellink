@@ -1,0 +1,42 @@
+{
+  "name": "iprithv",
+  "version": "4.0.0",
+  "description": "Shellink — terminal intro & contact menu for Prithvi S (@iprithv)",
+  "main": "card.js",
+  "bin": {
+    "iprithv": "./card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iprithv/npx_card.git"
+  },
+  "scripts": {
+    "test": "node card.js",
+    "pub": "npm version major & npm publish"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.5.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4",
+    "ora": "^5.1.0",
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "shellink",
+    "terminal",
+    "cli",
+    "npx",
+    "contact",
+    "business-card",
+    "iprithv"
+  ],
+  "author": "Prithvi S <prithvisivasankar@gmail.com> (https://github.com/iprithv)",
+  "license": "Apache-2.0",
+  "files": [
+    "card.js",
+    "Prithvi S.pdf"
+  ]
+}

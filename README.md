@@ -43,4 +43,4 @@ python3 scripts/generate_demo_gif.py
 
 ### License
 
-Apache License 2.0 — see [`LICENSE`](./LICENSE).
+Apache License 2.0, see [`LICENSE`](./LICENSE).

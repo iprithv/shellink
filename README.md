@@ -7,12 +7,6 @@ One command prints a short intro, then an interactive menu opens links for email
 npx iprithv
 ```
 
-From this repo:
-
-```bash
-git clone https://github.com/iprithv/shellink.git && cd shellink && npm install && node card.js
-```
-
 ---
 
 ### What happens
